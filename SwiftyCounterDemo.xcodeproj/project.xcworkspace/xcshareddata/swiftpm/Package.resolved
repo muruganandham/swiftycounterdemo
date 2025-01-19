@@ -1,0 +1,15 @@
+{
+  "originHash" : "64a43de736720d3f1ce033ee29121551083b322367c698a7dad0132e04b3e5d8",
+  "pins" : [
+    {
+      "identity" : "swiftycounter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/muruganandham/swiftycounter.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d06d331b9f5bd7d4f244d112209dd6d36a44b230"
+      }
+    }
+  ],
+  "version" : 3
+}
