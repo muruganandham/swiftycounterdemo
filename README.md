@@ -38,7 +38,10 @@ The project already includes SwiftyCounter as a dependency via SPM. To check or 
 
 ## SwiftyCounter Integration Overview
 
-SwiftyCounter provides the core functionality for managing counters. Here is how it is used in the demo:
+SwiftyCounter provides the core functionality for managing counters. Here is how it is us
+
+
+ed in the demo:
 
 ### Import the Library
 ```swift
@@ -57,6 +60,8 @@ SwiftyCounter(rating: $rating, step: 5)
 ```
 
 The demo app demonstrates these functionalities via a user-friendly interface.
+
+https://github.com/user-attachments/assets/d13e31c0-61f8-4a14-aa71-41cdb73ff363
 
 ## Contributing
 
